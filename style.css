@@ -1,0 +1,32 @@
+body {
+    font-family: Griffy;
+    text-align: center;
+    font-size: 30px;
+    background-color: #dfcb99;
+}
+h1 {
+    color: #333;
+}
+input {
+    padding: 5px;
+    margin: 5px;
+    background-color: #20b2aa;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+}
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #2980b9;
+}
+p {
+    font-weight: bold;
+}
